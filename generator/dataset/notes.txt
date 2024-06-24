@@ -1,0 +1,6 @@
+tìm them action to generate xss payloads
+random example on different example.
+write a script to automate checking the payload on DVWA.
+reinforcement learning (A2C and PPO algorithm).
+OpenAI game
+cartpole

