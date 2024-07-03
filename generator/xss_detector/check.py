@@ -7,9 +7,9 @@ import tensorflow as tf
 from xss_detector.utils import GeneSeg
 
 # Model path
-#model_file = "C:/KLTN/xss_detector/file/Conv_model.keras"
+#model_file = "C:/TEST/generator/xss_detector/file/Conv_model.keras"
 model_file = "C:/TEST/generator/xss_detector/file/MLP_model.keras"
-#model_file = "C:/KLTN/xss_detector/file/LSTM_model.keras"
+#model_file = "C:/TEST/generator/xss_detector/file/LSTM_model.keras"
 
 vec_file = "C:/KLTN/xss_detector/file/word2vec.pickle"
 
