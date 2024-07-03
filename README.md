@@ -34,11 +34,7 @@ deactivate
 ```
 pip install -r requirements.txt
 ```
-#### Step 6: Train PPO agent
-```
-python3 PPO.py
-```
-#### Step 7: Generate adversarial examples.
+#### Step 6: Generate adversarial examples.
 ```
 python3 generator/payload_gen.py
 ```
