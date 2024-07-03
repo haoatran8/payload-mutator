@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```
 python3 PPO.py
 ```
-#### Step 6: Generate adversarial examples.
+#### Step 7: Generate adversarial examples.
 ```
-python3 xss_mutated.py
+python3 generator/payload_gen.py
 ```
