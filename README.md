@@ -34,7 +34,8 @@ deactivate
 ```
 pip install -r requirements.txt
 ```
-#### Step 6: Generate adversarial examples.
+#### Step 6: Generate adversarial examples
+At line 119 of generator/payload_gen.py, change to your desire PPO agents (ppo_model_cnn.zip, ppo_model_lstm.zip, ppo_model_mlp.zip)
 ```
 python3 generator/payload_gen.py
 ```
